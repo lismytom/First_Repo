@@ -2,7 +2,6 @@ package exception_Example;
 
 public class Exception1 
 {
-
 	public static void main(String[] args) 
 	{
 		int a =10;
