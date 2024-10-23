@@ -5,10 +5,9 @@ public class ChildClass extends ParentClass1{
 	public static void main(String[] args) 
 	{
 		ChildClass obj=new ChildClass();
-				obj.display(25, 5);
-				
-
+		obj.display(25, 5);
 	}
+	
 	public void display(int a, int b)
 	{
 	 super.display(25, 15);
